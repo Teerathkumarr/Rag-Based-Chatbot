@@ -194,7 +194,7 @@ class ProfessionalChatbot:
         # Use Gemini for general responses
         if self.gemini_available:
             try:
-                model = genai.GenerativeModel('gemini-pro')
+                model = genai.GenerativeModel('gemini-1.5-flash')
                 ai_response = model.generate_content(
                     f"Please provide a helpful and accurate response to: {query}"
                 )
