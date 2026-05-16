@@ -1,0 +1,14 @@
+About Teerath's Chatbot:
+This chatbot is created by Teerath Kumar as a portfolio project.
+It demonstrates document processing and AI integration.
+
+Features:
+- Document Q&A from uploaded files
+- Intelligent responses
+- Simple and clean interface
+- Easy deployment on Streamlit Cloud
+
+Tech used:
+- Streamlit for frontend
+- Google Gemini API (optional)
+- Python for backend
